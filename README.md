@@ -1,18 +1,21 @@
-### Hi there 👋
+### Hi there 👋, Johan Opperman
+#### Focus on Quality Assurance
+![Focus on Quality Assurance](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-My focus is on Quality Assurance, contributing to user stories
-during grooming and ensuring a full understanding of the user
-requirements. I am working in an Agile environment, applying testing
-techniques on developed stories and ensure all findings are raised to
-the team. During Sprint planning represent test effort estimation and
-add input on possible testing scenarios. During active Sprint, create/
-update test cases, pair testing with the developer, execute test cases
-and report.
-Frontend testing: User Acceptance testing
-Automation: C#, xUnit
-Backend testing: Application Programming Interface (API) testing
-with Postman and Jmeter (Automation of user flows)
-Platforms: Web cross browsers, iOS apps, Android apps
+I have a number of years experience in Information Technology, with a strong emphasis on Technical Testing and Automation. I am vastly experienced in functional testing that includes automation on web based applications and API user flows.
+Currently, I act as a QA engineer in an Agile environment to deliver a high quality product.
+
+Skills: C#, xUnit, Postman, Jmeter 
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Automation of software using C# and xUnit 
+- 👯 I’m looking to collaborate on Quality Assurance 
+- 🤔 I’m looking for help with OOP frameworks 
+- 💬 Ask me about Quality Assurance 
+- ⚡ Fun fact: Home coffee barista...:-) 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com.in/johanopperman1/)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johanopperman)](https://github.com/anuraghazra/github-readme-stats)
 
