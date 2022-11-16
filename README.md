@@ -12,7 +12,11 @@ Skills: C#, xUnit, Postman, Jmeter
 - 👯 I’m looking to collaborate on Quality Assurance 
 - 🤔 I’m looking for help with OOP frameworks 
 - 💬 Ask me about Quality Assurance 
-- ⚡ Fun fact: Home coffee barista...:-)  
+- ⚡ Fun fact: Home coffee barista...:-) 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com.in/johanopperman1/)  
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johanopperman)](https://github.com/anuraghazra/github-readme-stats)
 
