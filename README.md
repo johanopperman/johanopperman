@@ -1,6 +1,6 @@
 ![Focus on Quality Assurance](https://github.com/johanopperman/johanopperman/blob/main/Testing.png)
 
-#Johan Opperman
+###Johan Opperman
 ## Focus on Quality Assurance
 
 I have a number of years experience in Information Technology, with a strong emphasis on Technical Testing and Automation. I am vastly experienced in functional testing that includes automation on web based applications and API user flows.
