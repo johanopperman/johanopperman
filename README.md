@@ -1,6 +1,6 @@
 ### Hi there 👋, Johan Opperman
 #### Focus on Quality Assurance
-![Focus on Quality Assurance](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Focus on Quality Assurance](https://github.com/johanopperman/johanopperman/blob/main/Testing.png)
 
 I have a number of years experience in Information Technology, with a strong emphasis on Technical Testing and Automation. I am vastly experienced in functional testing that includes automation on web based applications and API user flows.
 Currently, I act as a QA engineer in an Agile environment to deliver a high quality product.
