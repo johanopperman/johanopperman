@@ -6,7 +6,7 @@
 I have a number of years experience in Information Technology, with a strong emphasis on Technical Testing and Automation. I am vastly experienced in functional testing that includes automation on web based applications and API user flows.
 Currently, I act as a QA engineer in an Agile environment to deliver a high quality product.
 
-## Skills and Expereince
+## Skills and Experience
  * 💻 C#, xUnit, Postman, Jmeter
 
 
