@@ -1,8 +1,10 @@
 # Good day I am Johan Opperman 😄
 
-## Focus on Quality Assurance
+## My focus are always on software Quality Assurance.
 
 ![Focus on Quality Assurance](https://github.com/johanopperman/johanopperman/blob/main/wordcloudQA.jpg)
+
+
 
 I have a number of years experience in Information Technology, with a strong emphasis on Technical Testing and Automation. I am vastly experienced in functional testing that includes automation on web based applications and API user flows.
 Currently, I act as a QA engineer in an Agile environment to deliver a high quality product.
@@ -11,10 +13,10 @@ Currently, I act as a QA engineer in an Agile environment to deliver a high qual
  * 💻 C#, xUnit, Postman, Jmeter
 
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Automation of software using C# and xUnit 
-- 👯 I’m looking to collaborate on Quality Assurance 
-- 🤔 I’m looking for help with OOP frameworks 
+- 🔭 I’m currently working on a couple of projects on here that includes automation and api related testing.
+- 🌱 I’m currently learning Automation of software.
+- 👯 I’m looking to collaborate on Quality Assurance related topics.
+- 🤔 I’m looking for help with OOP frameworks
 - 💬 Ask me about Quality Assurance 
 - ⚡ Fun fact: Home coffee barista...:-) 
 
