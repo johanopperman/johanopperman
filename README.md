@@ -1,4 +1,4 @@
-![Focus on Quality Assurance](https://github.com/johanopperman/johanopperman/blob/main/Testing.png)
+![Focus on Quality Assurance](https://github.com/johanopperman/johanopperman/blob/main/wordcloudQA.jpg)
 
 # Johan Opperman
 ## Focus on Quality Assurance
